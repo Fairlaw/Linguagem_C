@@ -6,9 +6,10 @@
 void main()
 {
     system("clear");
-    int v[10] = {4,5,6,1,2,3,7,8,9,12};
+    int v[10] = {4,5,6,1,2,3,7,8,9,10};
     soma(v,10);
     maiorValor(v,10);
     menorValor(v,10);
+    ordenar(v,10);
 
 }
