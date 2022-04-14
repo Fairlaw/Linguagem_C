@@ -1,9 +1,4 @@
 # Linguagem_C
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 <img src="https://softcodeon.com/wp-content/uploads/2020/03/Learn-C-2-1.png" alt="C_Logo">
 >Repositório de estudo da linguagem de programação C do curso técnico de TI do SENAC
 
