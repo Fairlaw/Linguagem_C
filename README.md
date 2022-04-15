@@ -1,6 +1,6 @@
 # Linguagem_C
 <img src="https://softcodeon.com/wp-content/uploads/2020/03/Learn-C-2-1.png" alt="C_Logo">
->Repositório de estudo da linguagem de programação C do curso técnico de TI do SENAC
+Repositório de estudo da linguagem de programação C do curso técnico de TI do SENAC
 
 ## 💻 Pré-requisitos
 * Sistema operacional Linux, como [Ubuntu](https://ubuntu.com/)
